@@ -5,3 +5,14 @@ faiss-cpu
 numpy
 scikit-learn
 python-dotenv
+PyMuPDF
+pytesseract
+pdf2image
+beautifulsoup4
+qdrant-client
+psycopg2-binary
+python-multipart
+streamlit
+gradio
+fastapi
+uvicorn

@@ -1,0 +1,13 @@
+# Data dan model
+/data/
+/models/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Notebook
+.ipynb_checkpoints/
+
+venv/

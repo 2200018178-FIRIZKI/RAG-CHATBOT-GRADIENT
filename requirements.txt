@@ -1,0 +1,7 @@
+# Daftar dependensi utama
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+python-dotenv
